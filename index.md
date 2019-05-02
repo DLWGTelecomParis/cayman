@@ -7,10 +7,10 @@ layout: default
 
 # Coming Soon
 
-**Valentin De Bortoli**  (PhD Student at CMLA and MAP5)
-11/04/2019 at 10 a.m.
+**Someone**
+Date and room
 
-Texture Synthesis by CNN
+Title
 
 > Abstract: coming soon
 
@@ -19,6 +19,9 @@ Texture Synthesis by CNN
 
 
 # Past Presentations
+
+- 11/04/2019, [Macrocanonical Models for Texture Synthesis](https://partage.mines-telecom.fr/index.php/s/oWL05qwhbX1NAdC), [**Valentin De Bortoli**](https://vdeborto.github.io/)
+
 
 <dl>
 <dt>Arthur Ouaknine (PhD Student at Télécom Paris and Valeo)</dt>
