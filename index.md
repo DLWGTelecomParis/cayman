@@ -24,7 +24,7 @@ Title
 
 - 21/03/2019, [PolSAR Image Despeckling: Could We Use SPDNet to Solve It?](https://partage.mines-telecom.fr/index.php/s/8B7bZzO32t8qlvL), [**Xiangli Yang**](https://www.researchgate.net/profile/Xiangli_Yang)
 
-- 8/03/2019, [SAR Image denoising by Deep Neural Networks](https://partage.mines-telecom.fr/index.php/s/JwKnopngwf4Ttzl), **Emanuele Dalsasso**
+- 8/03/2019, [SAR Image denoising by Deep Neural Networks](https://partage.mines-telecom.fr/index.php/s/JwKnopngwf4Ttzl), [**Emanuele Dalsasso**](https://www.linkedin.com/in/emanuele-dalsasso-2b1b19152/)
 
 - 21/02/2019, [Robust segmentation of corpus callosum in multi-scanner pediatric t1-w mri using transfer learning](https://partage.mines-telecom.fr/index.php/s/iuOw8qJShWWbSGO), **Giammarco La Barbera**
 
