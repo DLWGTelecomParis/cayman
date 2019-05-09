@@ -7,10 +7,11 @@ layout: default
 
 # Coming Soon
 
-**Someone**
-Date and room
+**Sina Ghassemi, Attilio Fiandrotti**
+Thursday, 16th of May at 10am in C06
 
-Title
+Learning and Adapting Robust Features for
+Satellite Image Segmentation on Heterogeneous Datasets
 
 > Abstract: coming soon
 
