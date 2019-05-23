@@ -7,29 +7,21 @@ layout: default
 
 # Coming Soon
 
-**Sina Ghassemi, Attilio Fiandrotti**
-Thursday, 16th of May at 10am in C06
+**Vincent Couteaux**
+Thursday, 13th of June at 10am in C06
 
-Learning and Adapting Robust Features for
-Satellite Image Segmentation on Heterogeneous Datasets
+Title: coming soon
 
-> Abstract: This work addresses the problem of training a deep neural network for satellite image segmentation so that 
-it can be deployed over images whose statistics differ from those used for training. For example, in postdisaster 
-damage assessment, the tight time constraints make it impractical to train a network from scratch for each image to 
-be segmented. We propose a convolutional encoder-decoder network able to learn visual representations of increasing 
-semantic level as its depth increases, allowing it to generalize over a wider range of satellite images. Then, we 
-propose two additional methods to improve the network performance over each specific image to be segmented. First, 
-we observe that updating the batch normalization layers' statistics over the target image improves the network 
-performance without human intervention. Second, we show that refining a trained network over a few samples of the 
-image boosts the network performance with minimal human intervention. We evaluate our architecture over three data 
-sets of satellite images, showing the state-of-the-art performance in binary segmentation of previously unseen images 
-and competitive performance with respect to more complex techniques in a multiclass segmentation task.
+> Abstract: Coming soon
 
 
 * * *
 
 
 # Past Presentations
+- 23/05/2019, [A Primer on Graph Neural Networks](https://drive.google.com/file/d/1GeSgil9THf2v9fdp76fbHgG3SikAHXIb/view?usp=sharing), **Mateus Riva**
+
+- 16/05/2019, [Learning and Adapting Robust Features for Satellite Image Segmentation on Heterogeneous Datasets](https://drive.google.com/open?id=1YAN9cGK7iSidgUOHzxMMsZrOJJnZdZFR), **Sina Ghassemi, Attilio Fiandrotti**
 
 - 11/04/2019, [Macrocanonical Models for Texture Synthesis](https://partage.mines-telecom.fr/index.php/s/oWL05qwhbX1NAdC), [**Valentin De Bortoli**](https://vdeborto.github.io/)
 
