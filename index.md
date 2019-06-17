@@ -7,18 +7,25 @@ layout: default
 
 # Coming Soon
 
-**Vincent Couteaux**
-Thursday, 13th of June at 10am in C06
+**Chenguang Liu**
+Thursday, 20th of June at 10am in C06
 
-Title: coming soon
+Title: Training CNNs on speckled optical dataset for edge detection in SAR images
 
-> Abstract: Coming soon
-
+> Abstract: Edge detection in SAR images remains to be a challenging problem. Since CNNs has boosted the 
+performances of edge detection in natural  images and achieved better perforrmances than the traditional edge 
+detectors like Canny, Sobel and Structured Edges (2015, one of the most celebrated systems for edge detection),
+ we study the possibility of applying CNNs to SAR images. We propose a normalization method specifically for SAR 
+ images. In addition, by adding a  hand-crafted layer before CNNs, we have an CNN-based edge detector, which is 
+ robust to the strong bright points in SAR images and the resulting edge detector exceeds the state-of-the-art 
+ edge detector in SAR images a lot.
 
 * * *
 
 
 # Past Presentations
+- 13/06/2019, [Deep Learning Interpretability](https://drive.google.com/file/d/1qOEEGpl7epR3Z7iZ0tPZVLC_1Bw4EPH3/view?usp=sharing), [**Vincent Couteaux**](https://www.linkedin.com/in/vincent-couteaux-44269313b/)
+
 - 23/05/2019, [A Primer on Graph Neural Networks](https://drive.google.com/file/d/1GeSgil9THf2v9fdp76fbHgG3SikAHXIb/view?usp=sharing), **Mateus Riva**
 
 - 16/05/2019, [Learning and Adapting Robust Features for Satellite Image Segmentation on Heterogeneous Datasets](https://drive.google.com/open?id=1YAN9cGK7iSidgUOHzxMMsZrOJJnZdZFR), **Sina Ghassemi, Attilio Fiandrotti**
