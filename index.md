@@ -11,6 +11,8 @@ layout: default
 
 
 # Past Presentations
+- 10/02/2020, [Formal verification of robustness properties in deep learning programs](https://drive.google.com/file/d/18UkcWcXCMWwAwRb3goutnKKA8URgP2_M/view?usp=sharing), **Julien Girard**
+
 - 25/11/2019, [Nested Learning for Multi-Granular Tasks](https://drive.google.com/open?id=1Ze8Qxi81C9g-_9cUqw2o_U2vditcAdb-), **Raphaël Achddou**
 
 
