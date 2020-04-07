@@ -11,7 +11,11 @@ layout: default
 
 
 # Past Presentations
+- 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), **Giammarco La Barbera**
+
 - 30/03/2020, [Knowledge distillation from multi-modal to mono-modal segmentation networks.](https://drive.google.com/open?id=18jgAK3_ySrYkIztth-BFesaq2cVePxC5), **Matthis Maillard**
+
+- 24/02/2020, River detection through deep learning. [PDF1](https://drive.google.com/open?id=1UNa2fhFSdQJheQbTKjXuRNCTLgK5_NSO), [PDF2](https://drive.google.com/open?id=1I2xu1YLfTLoBYMqlW_g9bUB-W-xZYwyf), [**Emanuele Dalsasso**](https://dalsasso.wp.imt.fr/)
 
 - 10/02/2020, [Formal verification of robustness properties in deep learning programs](https://drive.google.com/file/d/18UkcWcXCMWwAwRb3goutnKKA8URgP2_M/view?usp=sharing), **Julien Girard**
 
