@@ -11,6 +11,8 @@ layout: default
 
 
 # Past Presentations
+- 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), **Arthur Ouaknine**
+
 - 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), **Giammarco La Barbera**
 
 - 30/03/2020, [Knowledge distillation from multi-modal to mono-modal segmentation networks.](https://drive.google.com/open?id=18jgAK3_ySrYkIztth-BFesaq2cVePxC5), **Matthis Maillard**
