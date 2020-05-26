@@ -11,7 +11,7 @@ layout: default
 
 
 # Past Presentations
-- 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), **Raphaël Achddou**
+- 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
 
 - 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](arthurouaknine.github.io/)
 
@@ -23,7 +23,7 @@ layout: default
 
 - 10/02/2020, [Formal verification of robustness properties in deep learning programs](https://drive.google.com/file/d/18UkcWcXCMWwAwRb3goutnKKA8URgP2_M/view?usp=sharing), **Julien Girard**
 
-- 25/11/2019, [Nested Learning for Multi-Granular Tasks](https://drive.google.com/open?id=1Ze8Qxi81C9g-_9cUqw2o_U2vditcAdb-), **Raphaël Achddou**
+- 25/11/2019, [Nested Learning for Multi-Granular Tasks](https://drive.google.com/open?id=1Ze8Qxi81C9g-_9cUqw2o_U2vditcAdb-), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
 
 - 20/06/2019, Training CNNs on speckled optical dataset for edge detection in SAR images, [**Chenguang Liu**](https://perso.telecom-paristech.fr/cheliu/)
 
