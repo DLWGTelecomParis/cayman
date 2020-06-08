@@ -11,6 +11,9 @@ layout: default
 
 
 # Past Presentations
+
+- 08/06/2020, [Feature Visualisation](https://drive.google.com/file/d/1dRuctbICKnXDsiVUarFGigL-cCpco_xY/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
+
 - 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
 
 - 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](arthurouaknine.github.io/)
