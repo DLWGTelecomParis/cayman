@@ -18,7 +18,7 @@ layout: default
 
 - 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
 
-- 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](arthurouaknine.github.io/)
+- 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](https://arthurouaknine.github.io/)
 
 - 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), **Giammarco La Barbera**
 
@@ -52,7 +52,7 @@ layout: default
 
 - 21/02/2019, [Robust segmentation of corpus callosum in multi-scanner pediatric t1-w mri using transfer learning](https://partage.mines-telecom.fr/index.php/s/iuOw8qJShWWbSGO), **Giammarco La Barbera**
 
-- 14/02/2019, [State of the art Segmentation with Deep Learning](https://partage.mines-telecom.fr/index.php/s/9GFbWHgviuwtJxk), [**Arthur Ouaknine**](arthurouaknine.github.io/)
+- 14/02/2019, [State of the art Segmentation with Deep Learning](https://partage.mines-telecom.fr/index.php/s/9GFbWHgviuwtJxk), [**Arthur Ouaknine**](https://arthurouaknine.github.io/)
 
 - 4/02/2019, Master Thesis presentation : Photorealistic Style Transfer with GANs, [**Xu Yao**](https://www.linkedin.com/in/yao-xu-225465106/?originalSubdomain=fr)
 
