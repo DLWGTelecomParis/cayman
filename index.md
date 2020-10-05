@@ -18,6 +18,8 @@ layout: default
 
 - 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
 
+- 11/05/2020, [CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer](https://drive.google.com/file/d/1Yaf87of6JVdVdvQBt18jkCwKqtESbd5z/view?usp=sharing), [**Robin Kips**](https://scholar.google.com/citations?user=RwyrWEkAAAAJ&hl=fr)
+
 - 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](https://arthurouaknine.github.io/)
 
 - 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), **Giammarco La Barbera**
