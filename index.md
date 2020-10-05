@@ -12,6 +12,8 @@ layout: default
 
 # Past Presentations
 
+- 10/05/2020, [Deep Video Editing](https://drive.google.com/file/d/1V2mPGoxAtl5wK4ZD_U-J_VM0JwtgqCv_/view?usp=sharing), **Xu Yao**
+
 - 08/06/2020, [Feature Visualisation](https://drive.google.com/file/d/1dRuctbICKnXDsiVUarFGigL-cCpco_xY/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
 - 25/05/2020, [Non local CNN approaches for Image Denoising : a review](https://drive.google.com/open?id=18AEHplpG6sqsdHElXD3nIu4oyAISyz3L), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
@@ -26,7 +28,11 @@ layout: default
 
 - 10/02/2020, [Formal verification of robustness properties in deep learning programs](https://drive.google.com/file/d/18UkcWcXCMWwAwRb3goutnKKA8URgP2_M/view?usp=sharing), **Julien Girard**
 
+- 11/2019, [The power of the amount of data you have](https://drive.google.com/file/d/1zzQFMOAA95UlO6wPLak-HrXe7U_AaprD/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/) 
+
 - 25/11/2019, [Nested Learning for Multi-Granular Tasks](https://drive.google.com/open?id=1Ze8Qxi81C9g-_9cUqw2o_U2vditcAdb-), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
+
+- 26/09/2019, [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](https://drive.google.com/file/d/1Or88rsawqvSXHheQmIbSLuCnmM1souBs/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
 - 20/06/2019, Training CNNs on speckled optical dataset for edge detection in SAR images, [**Chenguang Liu**](https://perso.telecom-paristech.fr/cheliu/)
 
@@ -37,6 +43,8 @@ layout: default
 - 16/05/2019, [Learning and Adapting Robust Features for Satellite Image Segmentation on Heterogeneous Datasets](https://drive.google.com/open?id=1YAN9cGK7iSidgUOHzxMMsZrOJJnZdZFR), **Sina Ghassemi, Attilio Fiandrotti**
 
 - 11/04/2019, [Macrocanonical Models for Texture Synthesis](https://partage.mines-telecom.fr/index.php/s/oWL05qwhbX1NAdC), [**Valentin De Bortoli**](https://vdeborto.github.io/)
+
+- 03/2019, [Texture Synthesis with CNN and Long range dependancy](https://drive.google.com/file/d/1ULLFgWhGhNsKFbUqP44nHbd6hMVlIo9O/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
 - 21/03/2019, [PolSAR Image Despeckling: Could We Use SPDNet to Solve It?](https://partage.mines-telecom.fr/index.php/s/8B7bZzO32t8qlvL), [**Xiangli Yang**](https://www.researchgate.net/profile/Xiangli_Yang)
 
@@ -50,7 +58,7 @@ layout: default
 
 - 24/01/2019, [Sales catalog segmentation](https://partage.mines-telecom.fr/index.php/s/9TFDnR3P4t3KGSl), **Raphaël Barman**
 
-- 18/10/2018, 10 A.M., C06, [Texture Synthesis with Deep Learning](https://partage.mines-telecom.fr/index.php/s/xqhwLaTdB8NaNLf), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
+- 18/10/2018, 10 A.M., C06, [Texture Synthesis with Deep Learning](https://drive.google.com/file/d/1zzQFMOAA95UlO6wPLak-HrXe7U_AaprD/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
 - 5/10/2018, 10 A.M., C45, [Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach](https://partage.mines-telecom.fr/index.php/s/Zk6iHUpszopKQTS), [**Antoine Pirovano**](https://www.linkedin.com/in/antoine-pirovano-6271b110a/?originalSubdomain=fr)
 
