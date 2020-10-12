@@ -11,8 +11,9 @@ layout: default
 
 
 # Past Presentations
+- 12/10/2020, [Capsule Networks](https://drive.google.com/file/d/18TtvUJ4XLGA1_XmtBonYSg4hdfDTkhOU/view?usp=sharing), **Riccardo Renzulli**
 
-- 10/05/2020, [Deep Video Editing](https://drive.google.com/file/d/1V2mPGoxAtl5wK4ZD_U-J_VM0JwtgqCv_/view?usp=sharing), **Xu Yao**
+- 05/10/2020, [Deep Video Editing](https://drive.google.com/file/d/1V2mPGoxAtl5wK4ZD_U-J_VM0JwtgqCv_/view?usp=sharing), **Xu Yao**
 
 - 08/06/2020, [Feature Visualisation](https://drive.google.com/file/d/1dRuctbICKnXDsiVUarFGigL-cCpco_xY/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
