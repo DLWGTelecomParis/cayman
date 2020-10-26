@@ -11,6 +11,8 @@ layout: default
 
 
 # Past Presentations
+- 19/10/2020, [Analyzing Convolutional Neural Networks transferred to artistic images](https://drive.google.com/file/d/11VhsdbESCpSytNCyHcBk9Ib5mKScePZm/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
+
 - 12/10/2020, [Capsule Networks](https://drive.google.com/file/d/18TtvUJ4XLGA1_XmtBonYSg4hdfDTkhOU/view?usp=sharing), **Riccardo Renzulli**
 
 - 05/10/2020, [Deep Video Editing](https://drive.google.com/file/d/1V2mPGoxAtl5wK4ZD_U-J_VM0JwtgqCv_/view?usp=sharing), **Xu Yao**
@@ -27,7 +29,7 @@ layout: default
 
 - 30/03/2020, [Knowledge distillation from multi-modal to mono-modal segmentation networks.](https://drive.google.com/open?id=18jgAK3_ySrYkIztth-BFesaq2cVePxC5), **Matthis Maillard**
 
-- 24/02/2020, River detection through deep learning. [PDF1](https://drive.google.com/open?id=1UNa2fhFSdQJheQbTKjXuRNCTLgK5_NSO), [PDF2](https://drive.google.com/open?id=1I2xu1YLfTLoBYMqlW_g9bUB-W-xZYwyf), [**Emanuele Dalsasso**](https://dalsasso.wp.imt.fr/)
+- 24/02/2020, River detection through deep learning. [PDF1](https://drive.google.com/open?id=1UNa2fhFSdQJheQbTKjXuRNCTLgK5_NSO), [PDF2](https://drive.google.com/open?id=1I2xu1YLfTLoBYMqlW_g9bUB-W-xZYwyf), [**Emanuele Dalsasso**]([**Nicolas Gonthier**](https://perso.telecom-paristech.fr/dalsasso/))
 
 - 10/02/2020, [Formal verification of robustness properties in deep learning programs](https://drive.google.com/file/d/18UkcWcXCMWwAwRb3goutnKKA8URgP2_M/view?usp=sharing), **Julien Girard**
 
