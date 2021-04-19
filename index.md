@@ -11,6 +11,14 @@ layout: default
 
 
 # Past Presentations
+- 22/02/2021, [Exploiting multi-temporal information for improved speckle reduction of Sentinel-1 SAR images by deep learning](https://drive.google.com/file/d/1Wdswpc_n2zPCpVuIWnpIxwIjxrF9epYD/view?usp=sharing), [**Emanuele Dalsasso**](https://perso.telecom-paristech.fr/dalsasso/) and **Ines Meraoumia**
+
+- 08/02/2021, [Synthetic images as a regularity prior for image restoration neural networks](https://drive.google.com/file/d/1h8JBTcKdz1JKwgsLTcjfGRX_faOVvRiT/view?usp=sharing), [**Raphaël Achddou**](https://perso.telecom-paristech.fr/rachddou/)
+
+- 09/11/2020, [Automatic size and pose homogenization with spatial transformer network to improve and accelerate pediatric segmentation](https://drive.google.com/file/d/1HgOwcWXxcftcymGcEmtqTZ4jJLCLAAHg/view?usp=sharing), [**Giammarco La Barbera**]( https://www.linkedin.com/in/giammarco-la-barbera-423464176/)
+
+- 02/11/2020, [Image colorization using adversarial learning and semantic information](https://drive.google.com/file/d/17Ytv4vg9oQE26Tf9V-SRywWFj1KO1sqH/view?usp=sharing), [**Lara Raad**]( http://dev.ipol.im/~lraad/)
+
 - 19/10/2020, [Analyzing Convolutional Neural Networks transferred to artistic images](https://drive.google.com/file/d/11VhsdbESCpSytNCyHcBk9Ib5mKScePZm/view?usp=sharing), [**Nicolas Gonthier**](https://perso.telecom-paristech.fr/gonthier/)
 
 - 12/10/2020, [Capsule Networks](https://drive.google.com/file/d/18TtvUJ4XLGA1_XmtBonYSg4hdfDTkhOU/view?usp=sharing), **Riccardo Renzulli**
@@ -25,7 +33,7 @@ layout: default
 
 - 27/04/2020, [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations.](https://drive.google.com/open?id=1ReZkysMS1x7BwtG7t4stJSzXdzYJbm5O), [**Arthur Ouaknine**](https://arthurouaknine.github.io/)
 
-- 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), **Giammarco La Barbera**
+- 06/04/2020, [Can Diffeomorphic-Spatial Transformer Networks help in Transfer Learning?](https://drive.google.com/open?id=1wBXvWxnGqTXAg17inEnRjDf_H4q6CL4r), [**Giammarco La Barbera**]( https://www.linkedin.com/in/giammarco-la-barbera-423464176/)
 
 - 30/03/2020, [Knowledge distillation from multi-modal to mono-modal segmentation networks.](https://drive.google.com/open?id=18jgAK3_ySrYkIztth-BFesaq2cVePxC5), **Matthis Maillard**
 
@@ -55,7 +63,7 @@ layout: default
 
 - 8/03/2019, [SAR Image denoising by Deep Neural Networks](https://partage.mines-telecom.fr/index.php/s/JwKnopngwf4Ttzl), [**Emanuele Dalsasso**](https://www.linkedin.com/in/emanuele-dalsasso-2b1b19152/)
 
-- 21/02/2019, [Robust segmentation of corpus callosum in multi-scanner pediatric t1-w mri using transfer learning](https://partage.mines-telecom.fr/index.php/s/iuOw8qJShWWbSGO), **Giammarco La Barbera**
+- 21/02/2019, [Robust segmentation of corpus callosum in multi-scanner pediatric t1-w mri using transfer learning](https://partage.mines-telecom.fr/index.php/s/iuOw8qJShWWbSGO), [**Giammarco La Barbera**]( https://www.linkedin.com/in/giammarco-la-barbera-423464176/)
 
 - 14/02/2019, [State of the art Segmentation with Deep Learning](https://partage.mines-telecom.fr/index.php/s/9GFbWHgviuwtJxk), [**Arthur Ouaknine**](https://arthurouaknine.github.io/)
 
